@@ -11,7 +11,7 @@ _Say hello to your community._
 
 
 <!-- 
-  <<< Author notes: Start of the course >>> 
+  <<< Author notes:Hello>>> 
   Include start button, a note about Actions minutes,
   and tell the learner why they should take the course.
   Each step should be wrapped in <details>/<summary>, with an `id` set.
